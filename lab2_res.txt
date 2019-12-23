@@ -1,0 +1,10 @@
+.:
+итого 4
+drwxrwxrwx. 2 karadmi karadmir 22 дек 21 14:33 dir
+-rw-r-----. 1 karadmi karadmi  5 дек 21 14:28 file
+-rw-------. 1 karadmi karadmi  0 дек 21 14:36 file1
+-rw-rw-rw-. 1 karadmi karadmi  0 дек 21 14:36 file2
+
+./dir:
+итого 4
+-rw-rw-r--. 1 karadmi karadmi 7 дек 21 14:33 new_file
